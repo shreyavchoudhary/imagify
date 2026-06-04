@@ -12,7 +12,7 @@ const AppContextProvider = (props)=>{
 
     const [credit, setCredit] = useState(false)
 
-    const backendUrl = "https://imagify-backend-saju.onrender.com"
+    const backendUrl = https://imagify-backend-saju.onrender.com
 
     const navigate = useNavigate()
 
